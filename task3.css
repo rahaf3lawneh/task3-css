@@ -1,0 +1,86 @@
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.primary{
+   border: 1px solid black;
+   width: 80%;
+   margin: auto;
+   margin-top: 10px;
+    
+}
+.heading{
+    margin-left: 10px;
+    margin-top: 10px;
+    text-decoration-line:underline;
+
+}
+
+.item{
+    margin: auto;
+    float: left;
+    width: 10%;
+    border: 1px solid black;
+    padding-left: 30px;
+   width: 230px;
+   height: 300px;
+   margin: auto;
+   margin-left: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   
+ }
+
+ .clearfix{
+    clear: left;
+ }
+
+ img{
+    width: 55%;
+    margin-left: 35px;
+
+ }
+
+ 
+
+ button{
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+    color: aliceblue;
+    background-color: rgb(120, 120, 184);
+    width: 180px;
+    height: 32px;
+ }
+
+  .fa-solid{
+    margin-right: 5px;
+ }
+
+ .fa-regular{
+  /* border: 1px solid rgb(109, 109, 156);*/
+    margin-left: 10px;
+    width: 30px;
+    height: 30px;
+ }
+ 
+ .new-price{
+    float: left;
+    color: green;
+    margin-right: 10px;
+ }
+ .old-price{
+    color: red;
+    padding-left: 10px;
+    text-decoration-line: line-through;
+
+ }
+ .paragraph{
+    margin-top: 10px;
+    margin-bottom: 4px;
+
+ }
+
+ 
